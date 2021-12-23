@@ -3,25 +3,16 @@
 <!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 200px" />
 </div>   -->
+
+<div align="center">
+
+### I’m a fast learner, prefer to keep learning and continue challenging myself. 🙏
   
+  #### 🔭 제 깃헙 주소는 [Charile Github](https://github.com/charile1)입니다.
+  **I like** 🐶🦋🌈🏄‍♀️🧘‍♀️🎶✈️🎨🎬🎤
 
-### <div align="center">안녕하세요 저는 프론트엔드 개발자를 꿈꾸는 박경서 입니다.🌈</div>  
-  
-
-- 🔭 제 깃헙 주소는 [Charile Github](https://github.com/charile1)입니다.
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
+ 
+</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -119,10 +110,10 @@
 <br/>  
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charile1&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charile1&hide_border=true&layout=compact" />  
 </div>
 
 <br/>  
 <div align="center>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A1E1F3&title_bg=%23FF9797&icon=waze.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A1E1F3&title_bg=%23FF9797&icon=waze.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false" align="center"/></a>
 </div>
