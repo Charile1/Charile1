@@ -7,8 +7,7 @@
 ### <div align="center">안녕하세요 저는 프론트엔드 개발자를 꿈꾸는 박경서 입니다.🌈</div>  
   
 
-- 🔭 제 깃헙 주소는 [Charile Github]
-(https://github.com/charile1)  
+- 🔭 제 깃헙 주소는 [Charile Github](https://github.com/charile1)입니다.
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
