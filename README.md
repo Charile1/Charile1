@@ -7,7 +7,8 @@
 <div align="center">
   
 ###  I’m a fast learner, prefer to keep learning and continue challenging myself. 🙏
-## MY mbti is ENFP 🌈 ⭐️
+**My MBTI is ENFP** 🌈 ⭐️ 
+  
 **I like** 🐶🏄‍♀️🧘‍♀️🎶✈️🎨🎬🎤
 </div>
 
