@@ -6,8 +6,6 @@
 
 <!-- ![profile](https://user-images.githubusercontent.com/89507327/147879718-94ba3b22-699b-470e-ad6c-8482c70fdd32.png) -->
 
-
-
 <div align="center">
   
 <pre>
@@ -28,9 +26,9 @@ _______  ___  _________  ___  ___  ___  ___  ________
    \ \_______\ \__\   \ \__\ \ \__\ \__\ \_______\ \_______\
                           
 </pre>
+ 
   
-
-![face3-unscreen](https://user-images.githubusercontent.com/89507327/147879716-9aeec036-0cbf-46a2-a5f2-363ed8dfc1ed.gif)
+  <img src="https://user-images.githubusercontent.com/89507327/147879716-9aeec036-0cbf-46a2-a5f2-363ed8dfc1ed.gif" width="350px"/>
 
 
   
