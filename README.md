@@ -47,10 +47,10 @@ _______  ___  _________  ___  ___  ___  ___  ________
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-    <a href="https://github.com/deli-ght">
+    <a href="https://github.com/charile1">
       <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charile1&hide_border=true&layout=compact" />  
-</div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charile1&hide_border=true&layout=compact" />  
+      </div>
     </a>
 </div>
 
@@ -66,10 +66,10 @@ _______  ___  _________  ___  ___  ___  ___  ________
 
 <div align="center">
 <h1>Connect with me</h1>
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/charile1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
+<a href="https://instagram.com/charile1" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
