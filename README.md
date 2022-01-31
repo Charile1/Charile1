@@ -49,7 +49,7 @@ _______  ___  _________  ___  ___  ___  ___  ________
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
     <a href="https://github.com/charile1">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charile1&hide_border=true&layout=compact" />  
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charile1&hide_border=true&layout=compact" />  
       </div>
     </a>
 </div>
