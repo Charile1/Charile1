@@ -32,7 +32,7 @@ _______  ___  _________  ___  ___  ___  ___  ________
 
 
   
-###  I’m a fast learner, prefer to keep learning and continue challenging myself. 🙏
+###  I’m a fast learner, prefer to keep learning and continue challenging myself.  🙏
 **My MBTI is ENFP** 🌈 ⭐️ 
   
 **I like** 🐶🏄‍♀️🧘‍♀️🎶✈️🎨🎬🎤
