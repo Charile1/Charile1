@@ -4,7 +4,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>   -->
 
-<!-- ![profile](https://user-images.githubusercontent.com/89507327/147879718-94ba3b22-699b-470e-ad6c-8482c70fdd32.png) -->
+<!-- ![profile](https://user-images.githubusercontent.com/89507327/147879718-94ba3b22-699b-470e-ad6c-8482c70fdd32.png)-->
 
 <div align="center">
   
