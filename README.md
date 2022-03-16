@@ -28,7 +28,7 @@ _______  ___  _________  ___  ___  ___  ___  ________
 </pre>
  
   
-<img src="https://user-images.githubusercontent.com/89507327/147879716-9aeec036-0cbf-46a2-a5f2-363ed8dfc1ed.gif" width="350px"/>
+<img src="https://user-images.githubusercontent.com/89507327/147879716-9aeec036-0cbf-46a2-a5f2-363ed8dfc1ed.gif" width="250px"/>
 
 
   
